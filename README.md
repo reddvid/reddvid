@@ -1,6 +1,6 @@
 ### What's up? My name is David Ballesteros, aka [Red David](https://reddavid.me)
 
-#### IT Systems Engineer for [Radio Philippines Network](https://rpnradio.com) in Quezon City, PH ![PH flag](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH.png)
+#### IT Systems Engineer at [Radio Philippines Network](https://rpnradio.com) in Quezon City, PH ![PH flag](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH.png)
 #### Electronics Engineer and Applications Developer
 
 - 🔭 I’m currently working on RPN mobile apps, websites, and other software
