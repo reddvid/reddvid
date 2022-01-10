@@ -25,6 +25,7 @@
 
 
 ##### App Developer
+- [Blog Site](https://reddavid.me)
 - [ZIP Code PH Mobile App](https://reddavid.me/zipcodeph-app/)
 - [ZIP Code PH Windows 10 App](https://www.microsoft.com/store/productid/9nblggh5gft6)
 - RF Tools Mobile App (Coming soon!)
@@ -33,3 +34,10 @@
 - [Neng Crochet Website](https://nengcrochet.com) (Under construction)
 - [Net Speed Tray](https://github.com/reddvid/net-speed-tray) (Updating...)
 - Other Windows 10 Mobile Apps 😔😭
+
+##### What I Use For Development
+- Figma
+- Notion
+- Microsoft Visual Studio (C#.NET + Windows SDK)
+- VS Code (Flutter + Dart)
+- Adobe Illustrator
