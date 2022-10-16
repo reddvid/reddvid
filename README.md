@@ -13,10 +13,7 @@
 
 ##### IT Systems Engineer
 - Software-based Audio-over-IP through microwave wireless links
-- [RPN Website](https://rpnradio.com)
-- [RPN Tune In Website](https://tunein.rpnradio.com)
-- [RPN Radio Mobile App](https://tunein.rpnradio.com/download)
-- [RPN News Mobile App](https://play.google.com/store/apps/details?id=com.rpnradio.news&hl=en_US&gl=US)
+- Technical
 - Web Admin
 - Creative Designer
 - RPN ID Maker - Windows app to build company IDs
@@ -26,18 +23,23 @@
 
 ##### App Developer
 - [Blog Site](https://reddavid.me)
-- [ZIP Code PH Mobile App](https://reddavid.me/zipcodeph-app/)
-- [ZIP Code PH Windows 10 App](https://www.microsoft.com/store/productid/9nblggh5gft6)
+- [ZIP Code PH App](https://reddavid.me/zipcodeph-app/)
 - RF Tools Mobile App (Coming soon!)
 - [RF Tools Windows 10 App](https://www.microsoft.com/store/productid/9nblggh41btt) (Updating...)
 - [Your Phone Tray](https://www.microsoft.com/store/productid/9P9F9D77ZB0N) (Updating...)
-- [Neng Crochet Website](https://nengcrochet.com) (Under construction)
-- [Net Speed Tray](https://github.com/reddvid/net-speed-tray) (Updating...)
+- [RPN Website](https://rpnradio.com)
+- [RPN Tune In Website](https://tunein.rpnradio.com)
+- [RPN Radio Mobile App](https://tunein.rpnradio.com/download)
+- [RPN News Mobile App](https://play.google.com/store/apps/details?id=com.rpnradio.news&hl=en_US&gl=US)
 - Other Windows 10 Mobile Apps 😔😭
+
+##### Side projects
+- Alfred bot for my Discord Server
 
 ##### What I Use For Development
 - Figma
 - Notion
 - Microsoft Visual Studio (C#.NET + Windows SDK)
 - VS Code (Flutter + Dart)
+- Xcode
 - Adobe Illustrator
