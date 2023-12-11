@@ -9,7 +9,6 @@
 - 🤝 Would want to work in a collaborative workspace
 - 📫 How to reach me: [Twitter](https://twitter.com/reddvid/), [LinkedIn](https://linkedin.com/in/reddvid/), [Email](mailto:hi@reddavid.me)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got a mole on
 
 ##### IT Systems Engineer
 - Software-based Audio-over-IP through microwave wireless links
