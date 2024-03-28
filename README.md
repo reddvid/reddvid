@@ -1,11 +1,8 @@
 ### What's up? My name is David Ballesteros, aka [Red David](https://reddavid.me)
 
-#### IT Systems Engineer at [Radio Philippines Network](https://rpnradio.com) in Quezon City, PH ![PH flag](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH.png)
 #### Electronics Engineer and Applications Developer
 
-- 🔭 I’m currently working on RPN mobile apps, websites, and other software
 - 🌱 I’m currently learning Flutter (Dart), web development, advanced C# and WinUI3
-- 🤔 I’m looking for help with web development (Pref. ASP stack)
 - 🤝 Would want to work in a collaborative workspace
 - 📫 How to reach me: [Twitter](https://twitter.com/reddvid/), [LinkedIn](https://linkedin.com/in/reddvid/), [Email](mailto:hi@reddavid.me)
 - 😄 Pronouns: He/Him
@@ -34,11 +31,11 @@
 
 ##### Side projects
 - Alfred bot for my Discord Server
+- A lot
 
 ##### What I Use For Development
+- Visual Studio
+- VS Code
+- Affinity Designer
 - Figma
 - Notion
-- Microsoft Visual Studio (C#.NET + Windows SDK)
-- VS Code (Flutter + Dart)
-- Xcode
-- Adobe Illustrator
